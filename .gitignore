@@ -192,4 +192,4 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,android,androidstudio
 
-/app/src/main/java/com/hcilab/httpexample/util/Secrets.kt
+*/app/src/main/java/com/hcilab/httpexample/util/Secrets.kt
